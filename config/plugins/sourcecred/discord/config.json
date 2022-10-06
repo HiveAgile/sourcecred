@@ -1,0 +1,27 @@
+[
+  {
+    "channelWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {
+        "876949563339071518//elige-tu-rol": 3
+      }
+    },
+    "guildId": "828601950626643978",
+    "includeNsfwChannels": false,
+    "propsChannels": [
+    ],
+    "reactionWeightConfig": {
+      "applyAveraging": false,
+      "defaultWeight": 1,
+      "weights": {
+        "growthgram:1027549035227267183": 10,
+        "cloudadmins:1026494023646597251": 10
+      }
+    },
+    "roleWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {
+      }
+    }
+  }
+]
